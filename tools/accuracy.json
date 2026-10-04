@@ -1,0 +1,25 @@
+{
+  "testedGoalRange": [
+    1,
+    999
+  ],
+  "activeStates": 110889,
+  "minimumProbability": 0.11428232384490489,
+  "saddleGap": 2.6645352591003757e-15,
+  "maximumSymmetryError": 0,
+  "stored": {
+    "maximumWinRateLoss": 3.319566843629218e-14,
+    "initial30": 0.4999999999999964,
+    "initial999": 0.4999999999999689
+  },
+  "sampled": {
+    "maximumWinRateLoss": 1.9268161510765935e-9,
+    "initial30": 0.49999999966345954,
+    "initial999": 0.49999999807318385
+  },
+  "timingMs": {
+    "goal30": 0.8207000000000022,
+    "goal999": 126.08730000000001
+  },
+  "htmlBytes": 7455
+}
